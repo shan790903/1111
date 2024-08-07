@@ -306,43 +306,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	
-    {
-      "name": "Smart",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/Smart.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	
-    {
-      "name": "jizhi",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/jizhi.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	
-    {
-      "name": "mytvsuper",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/mytvsuper.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	
-   {
-      "name": "xsj",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/xsj%20(2).txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	
+
    {
       "name": "世界TV",
       "type": 0,
@@ -352,14 +316,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	
-   {
-      "name": "中華電信MOD",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1MOD.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+  // {
+  //    "name": "中華電信MOD",
+  //    "type": 0,
+  //    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1MOD.txt",
+  //    //"_playerType": 2,
+  //    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  //    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  //  },
 	
    {
       "name": "大杂烩",
@@ -369,24 +333,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	
-   {
-      "name": "星视界3",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E6%98%9F%E8%A7%86%E7%95%8C3.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	
-   {
-      "name": "晴天8-2",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/%E6%99%B4%E5%A4%A98-2.txt",
-      //"_playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },	
 
     {
       "name": "🏘️只是鏈接 1RobYang rb.gy/cbgs6c",
