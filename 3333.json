@@ -10,49 +10,10 @@
       "searchable": 1,
       "changeable": 1,
       "categories": ["剧情", "动作", "冒险", "同性", "喜剧", "奇幻", "恐怖", "悬疑", "惊悚", "灾难", "爱情", "犯罪", "科幻", "动画电影", "歌舞", "战争", "经典", "网络电影", "国产剧", "港剧", "韩剧", "日剧", "泰剧", "台剧", "欧美剧", "新马剧", "其他剧", "国产综艺", "港台综艺", "韩国综艺", "日本综艺", "欧美综艺", "新马泰综艺", "其他综艺", "欧美", "日本", "韩国", "国产", "港台", "古装", "虐恋", "逆袭", "悬疑", "神豪", "重生", "复仇", "穿越", "甜宠", "强者"]    
-    },
-    {
-      "key": "T4-heimuer",
-      "name": "黑木耳(T4)",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/hme?token=8700e52e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "T4-欧乐",
-      "name": "欧乐(T4)",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/olelive?token=8700e52e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "T4-安博",
-      "name": "安博(T4)",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/ub18?token=8700e52e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
     }
   ],
   "lives": [
-    {
-      "name": "斯卡特",
-      "url": "https://tang.hz.cz/zb/stv?token=8700e52e"
-    },
-    {
-      "name": "ETH(JS)",
-      "api": "https://tang.hz.cz/js/ethtv.js",
-      "type": 3,
-      "ua": "okhttp/4.12.0"
-    }
+
   ],
-  "notice": "欢迎光临！陳 豆豆"
+  "notice": "歡迎蒞臨 黑木耳 接口"
 }
