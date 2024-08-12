@@ -13,7 +13,17 @@
     }
   ],
   "lives": [
-
+{
+      "name": "SMT(翻)",
+      "boot": false,
+      "pass": true,
+      "url": "https://t4.doube.eu.org/smt.txt",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
+    }
   ],
   "notice": "歡迎蒞臨 黑木耳 接口"
 }
