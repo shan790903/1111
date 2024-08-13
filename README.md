@@ -21,3 +21,7 @@ https://github.com/bobyang3/TVRelated/tree/master/TVBoxOSC
 https://github.com/gaotianliuyun/gao
 
 https://gitlink.org.cn/bao523/bao
+
+爱达杂货铺 | 收集那些有用的东西|爱达导航:
+
+https://adzhp.xyz/
