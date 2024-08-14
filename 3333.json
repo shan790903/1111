@@ -13,7 +13,14 @@
     }
   ],
   "lives": [
-    
+   {
+      "name": "4gtv",
+      "type": 0,
+      "url": "https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
    {
       "name": "TW",
       "type": 0,
