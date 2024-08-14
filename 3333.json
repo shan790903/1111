@@ -15,14 +15,21 @@
   "lives": [
 
    {
+      "name": "VIPplus",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/VIPplus.m3u",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
       "name": "125a",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/125a.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },	
-    
+    },	    
    {
       "name": "SMT(翻)",
       "boot": false,
