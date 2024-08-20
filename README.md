@@ -22,6 +22,8 @@ https://github.com/gaotianliuyun/gao
 
 https://gitlink.org.cn/bao523/bao
 
+https://github.com/YanG-1989/m3u?tab=readme-ov-file
+
 玉玉の主页
 
 https://fmbox.cc/
