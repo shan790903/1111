@@ -22,17 +22,17 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
    {
-      "name": "TW",
+      "name": "154",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/tw.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/154.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
    {
-      "name": "VIPplus",
+      "name": "23",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/VIPplus.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/23.txt",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
