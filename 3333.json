@@ -18,8 +18,8 @@
       "api": "https://json.heimuer.xyz/api.php/provide/vod/",
       "playUrl": "https://player.heimuer.tv/index.html?url=",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      //"quickSearch": 1,
+      //"filterable": 0,
       "header": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
                 }
