@@ -14,9 +14,9 @@
   ],
   "lives": [
    {
-      "name": "ub",
+      "name": "tv_2025-10-31(免翻)去XXX",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/ub.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/tv_2025-10-31(免翻)去XXX.m3u",
       //"_playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
