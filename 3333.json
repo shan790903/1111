@@ -52,6 +52,15 @@
       "filterable": 0
     },
     {
+      "key": " taopianZY",
+      "name": "淘片資源",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "heimuer",
       "name": "黑木耳",
       "type": 1,
