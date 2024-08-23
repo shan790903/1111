@@ -31,3 +31,7 @@ https://fmbox.cc/
 爱达杂货铺 | 收集那些有用的东西|爱达导航:
 
 https://adzhp.xyz/
+
+站長資源
+
+https://www.zzzypro.com/
