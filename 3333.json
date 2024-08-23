@@ -55,7 +55,7 @@
       "key": " hyZY",
       "name": "虎牙資源",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
       "playUrl": "https://huyajx.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -67,6 +67,16 @@
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": " jinyingZY",
+      "name": "金鷹資源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "playUrl": "https://hd.iapijy.com/play?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
