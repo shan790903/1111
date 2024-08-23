@@ -22,6 +22,16 @@
       "filterable": 0
     },
     {
+      "key": "suoniZY",
+      "name": "索尼資源",
+      "type": 1,
+      "api": "https://snzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://www.snplayer.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "360ZY",
       "name": "360資源",
       "type": 1,
