@@ -42,6 +42,16 @@
       "filterable": 0
     },
     {
+      "key": " hyZY",
+      "name": "虎牙資源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "playUrl": "https://huyajx.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "heimuer",
       "name": "黑木耳",
       "type": 1,
