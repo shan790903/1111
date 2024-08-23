@@ -62,10 +62,11 @@
       "filterable": 0
     },
     {
-      "key": " taopianZY",
-      "name": "淘片資源",
+      "key": " hongniuZY",
+      "name": "紅牛資源",
       "type": 1,
-      "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
