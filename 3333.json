@@ -32,11 +32,11 @@
       "filterable": 0
     },
     {
-      "key": "360ZY",
-      "name": "360資源",
+      "key": "jsZY",
+      "name": "極速資源",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "playUrl": "https://www.360jiexi.com/player/?url=",
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "playUrl": "https://jsjiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -55,7 +55,7 @@
       "key": " hyZY",
       "name": "虎牙資源",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "playUrl": "https://huyajx.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -75,7 +75,7 @@
       "key": " jinyingZY",
       "name": "金鷹資源",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "playUrl": "https://hd.iapijy.com/play?url=",
       "searchable": 1,
       "quickSearch": 1,
