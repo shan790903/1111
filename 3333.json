@@ -22,6 +22,16 @@
       "filterable": 0
     },
     {
+      "key": "360ZY",
+      "name": "360資源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "https://www.360jiexi.com/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "heimuer",
       "name": "黑木耳",
       "type": 1,
