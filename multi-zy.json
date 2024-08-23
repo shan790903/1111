@@ -130,6 +130,38 @@
   ],
   "lives": [
    {
+      "name": "tv_2025-10-31(免翻)去XXX",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/tv_2025-10-31(免翻)去XXX.m3u",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
+      "name": "154",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/154.txt",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
+      "name": "23",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/23.txt",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
+      "name": "125a",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/125a.txt",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },	    
+   {
       "name": "SMT(翻)",
       "boot": false,
       "pass": true,
@@ -140,6 +172,7 @@
         "X-FORWARDED-FOR": "127.0.0.1"
       }
     }
+
   ],
   "notice": "歡迎使用SHAN多資源接口"
 }
