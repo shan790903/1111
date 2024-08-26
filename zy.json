@@ -176,7 +176,7 @@
   ],
   "lives": [
 
-       {
+	{
             "key": "实验直播3",
             "name": "实验直播3",
             "type": 4,
@@ -184,7 +184,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "1,2,3"
-        },
+        }
   ],
   "notice": "歡迎使用SHAN多資源接口"
 }
