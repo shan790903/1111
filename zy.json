@@ -22,6 +22,15 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+	"key": "实验直播3",
+	"name": "实验直播3",
+	"type": 4,
+	"api": "http://zhangqun1818.serv00.net/zh/2241.php",
+	"searchable": 0,
+	"changeable": 0,
+	"ext": "1,2,3"
+    },
+    {
       "key": "OKZY",
       "name": "OK資源",
       "type": 1,
@@ -174,16 +183,8 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     }
   ],
-  "lives": [
-	{
-            "key": "实验直播3",
-            "name": "实验直播3",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/zh/2241.php",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "1,2,3"
-        }
-  ],
+  //"lives": [
+
+  //],
   "notice": "歡迎使用SHAN多資源接口"
 }
