@@ -155,6 +155,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },	    
    {
+      "name": "fm1077",
+      "type": 0,
+      "url": "http://fm1077.serv00.net/play-litv.php",
+      //"_playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },	    
+   {
       "name": "SMT(翻)",
       "boot": false,
       "pass": true,
