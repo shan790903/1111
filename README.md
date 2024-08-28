@@ -24,6 +24,8 @@ https://gitlink.org.cn/bao523/bao
 
 https://github.com/YanG-1989/m3u?tab=readme-ov-file
 
+https://www.xn--sss604efuw.com/
+
 玉玉の主页
 
 https://fmbox.cc/
