@@ -26,6 +26,8 @@ https://github.com/YanG-1989/m3u?tab=readme-ov-file
 
 https://www.xn--sss604efuw.com/
 
+https://github.com/qirenzhidao/tvbox18/tree/main
+
 玉玉の主页
 
 https://fmbox.cc/
