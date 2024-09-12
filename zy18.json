@@ -25,6 +25,17 @@
       "changeable": 1
     },
     {
+      "key": " avreZY",
+      "name": "黃瓜資源",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
+      "playUrl": "https://player.avre14.com:54188/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
       "key": "thZY",
       "name": "桃花資源",
       "type": 1,
@@ -96,17 +107,6 @@
       "type": 1,
       "api": "https://caiji.gqjiexi.com/api.php/provide/vod/at/json/",
       "playUrl": "https://jiexi.gqjiexi.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": " avreZY",
-      "name": "黃瓜資源",
-      "type": 1,
-      "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
-      "playUrl": "https://player.avre14.com:54188/player/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
