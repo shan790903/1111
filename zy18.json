@@ -1,0 +1,142 @@
+{
+  "logo": "https://pgl823.com/img/img.png",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "sites": [
+    {
+      "key": "gayZY",
+      "name": "GAY資源",
+      "type": 1,
+      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "playUrl": "https://gayzyjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "thZY",
+      "name": "桃花資源",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      //"playUrl": "https:///thzy1.me/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "yyZY",
+      "name": "優優資源",
+      "type": 1,
+      "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json/",
+      "playUrl": "https://jx.yycmszywjx.cc/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+	  "changeable": 1
+    },
+    {
+      "key": "siwaZY",
+      "name": "絲襪資源",
+      "type": 1,
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json/",
+      "playUrl": "https://help.siwam3u8.com:5278/m3u8.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": " bbckZY",
+      "name": "阿里BB倉庫資源",
+      "type": 1,
+      "api": "https://bbckzy8.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://alplayer.bbckzy.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+	  "changeable": 1
+    },
+    {
+      "key": " sesehuZY",
+      "name": "色色虎資源",
+      "type": 1,
+      "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.jxsesehuzy.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+	  "changeable": 1
+    },
+    {
+      "key": "aosikaZY",
+      "name": "奧斯卡資源",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://aosikazyplayurl.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": " gqZY",
+      "name": "搞起資源",
+      "type": 1,
+      "api": "https://caiji.gqjiexi.com/api.php/provide/vod/at/json/",
+      "playUrl": "https://jiexi.gqjiexi.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": " didiZY",
+      "name": "滴滴資源",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      //"playUrl": "https://jx.ddapi.cc/dplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": " avreZY",
+      "name": "黃瓜資源",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
+      "playUrl": "https://player.avre14.com:54188/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "jingpinxZY",
+      "name": "精品資源",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
+      //"playUrl": "https://vip.zykbf.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "fhZY",
+      "name": "番號資源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list",
+      "playUrl": "https://www.fhm3u8.com/dpm3u8.html?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    }
+  ],
+  //"lives": [
+
+  //],
+  "notice": "歡迎使用18+多資源接口"
+}
