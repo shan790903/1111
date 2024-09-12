@@ -124,6 +124,105 @@
       "changeable": 1
     },
     {
+      "key": "shayuZY",
+      "name": "鯊魚資源",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=list",
+      "playUrl": "https://shayujx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "ljZY",
+      "name": "辣椒資源",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
+      "playUrl": "https://lajiaoapi.com/watch?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "senlinZY",
+      "name": "森林資源",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://sljxsl.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "caoliuZY",
+      "name": "草榴資源",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/json/",
+      "playUrl": "https://jx.caoliuzywcdnjx.com:188/m3u8.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "semaoZY",
+      "name": "色貓資源",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "kkZY",
+      "name": "KK資源",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/?ac=list",
+      //"playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "lbZY",
+      "name": "樂播資源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
+      "playUrl": "https://lbjx9.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "yutuZY",
+      "name": "玉兔資源",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
+      "playUrl": "https://yutujx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "lsbZY",
+      "name": "老色逼資源",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://playlaosebi.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
       "key": "fhZY",
       "name": "番號資源",
       "type": 1,
@@ -133,7 +232,18 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
-    }
+    },
+    {
+      "key": "naixxZY",
+      "name": "奶香香資源",
+      "type": 1,
+      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://nxxzynxp.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
   ],
   //"lives": [
 
