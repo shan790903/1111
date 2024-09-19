@@ -8,6 +8,8 @@ GitHub Proxy:
 
 https://mirror.ghproxy.com/
 
+https://ghp.ci/
+
 vod:
 
 https://github.com/kan31467/1/tree/main/json
