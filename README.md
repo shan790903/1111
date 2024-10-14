@@ -36,6 +36,8 @@ https://github.com/qist/tvbox/tree/master
 
 影視森林 https://549.fr/
 
+影猫导航 - 免费观影第一站 https://www.ymaoo.cn/
+
 玉玉の主页
 
 https://fmbox.cc/
