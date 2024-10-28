@@ -34,6 +34,8 @@ https://github.com/hd9211/Tvbox1
 
 https://github.com/qist/tvbox/tree/master
 
+https://github.com/alantang1977/X/tree/main
+
 影視森林 https://549.fr/
 
 影猫导航 - 免费观影第一站 https://www.ymaoo.cn/
