@@ -10,6 +10,8 @@ https://mirror.ghproxy.com/
 
 https://ghp.ci/
 
+https://github.moeyy.xyz/
+
 vod:
 
 https://github.com/kan31467/1/tree/main/json
