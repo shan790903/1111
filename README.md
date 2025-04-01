@@ -6,8 +6,6 @@ https://github.com/FongMi/Release/tree/main
 
 GitHub Proxy:
 
-https://mirror.ghproxy.com/
-
 https://ghproxy.link/
 
 https://github.moeyy.xyz/
