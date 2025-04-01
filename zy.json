@@ -7,7 +7,7 @@
       "name": "黑木耳",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "playUrl": "https://player.heimuer.tv/index.html?url=",
+      "playUrl": "https://hoplayer.com/index.html?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -22,10 +22,11 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://1080zyk6.com/
       "key": " yzZY",
       "name": "優質資源",
       "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
+      "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",
       "playUrl": "https://vip.zykbf.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
