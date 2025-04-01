@@ -3,6 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      // https://heimuer.tv/
       "key": "heimuer",
       "name": "黑木耳",
       "type": 1,
@@ -42,6 +43,7 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://okzyw9.com/
       "key": "OKZY",
       "name": "OK資源",
       "type": 1,
@@ -61,10 +63,11 @@
         "年代穿越", "女频恋爱", "现代都市", "邵氏电影", "合集短剧"]
     },
     {
+      // https://www.jisuzy.com/	    
       "key": "jsZY",
       "name": "極速資源",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
       "playUrl": "https://jsjiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -80,11 +83,12 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://huaweiba.live/
       "key": "haiwaiba",
       "name": "华为吧",
       "type": 1,
-      "api": "https://cjhwba.com/api.php/provide/vod/",
-      "playUrl": "https://player.hw8.lol/player?url=",
+      "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://player.dphw8.com/player?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -99,6 +103,7 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://wolongzy.cc/    
       "key": " wolongZY",
       "name": "臥龍資源",
       "type": 1,
@@ -118,10 +123,11 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://huyazy.com/
       "key": " hyZY",
       "name": "虎牙資源",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "playUrl": "https://huyajx.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -137,10 +143,11 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://suonizy.com/
       "key": "suoniZY",
       "name": "索尼資源",
       "type": 1,
-      "api": "https://snzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://www.snplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -156,10 +163,11 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://hongniuzy.com/
       "key": " hongniuZY",
       "name": "紅牛資源",
       "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/json/",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
       "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -175,6 +183,7 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://wujinzy.com/
       "key": " wjZY",
       "name": "無盡資源",
       "type": 1,
@@ -194,10 +203,11 @@
         "年代穿越", "甜宠短剧", "强者短剧", "现代都市", "合集短剧"]
     },
     {
+      // https://lzizy.net/
       "key": " lziZY",
       "name": "量子資源",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/json",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://lziplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -213,6 +223,7 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
     {
+      // https://jinyingzy.com/
       "key": " jinyingZY",
       "name": "金鷹資源",
       "type": 1,
@@ -232,10 +243,11 @@
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]	  
     },
     {
+      // https://360zy.com/
       "key": "360ZY",
       "name": "360資源",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/from/360m3u8/at/json",
+      "api": "https://360zy.com/api.php/provide/vod/at/json",
       "playUrl": "https://www.360jiexi.com/player/?url=",
       "searchable": 1,
       "quickSearch": 1,
