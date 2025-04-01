@@ -8,7 +8,7 @@ GitHub Proxy:
 
 https://mirror.ghproxy.com/
 
-https://ghp.ci/
+https://ghproxy.link/
 
 https://github.moeyy.xyz/
 
