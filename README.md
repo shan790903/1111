@@ -67,3 +67,5 @@ https://github.com/cyalias/mytvs-github
 個是資源文件： https://mpimg.cn/
 
 飯太硬 全能接口解密：https://www.xn--sss604efuw.com/jm/
+
+https://www.xn--sss604efuw.com/
