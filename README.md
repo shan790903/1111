@@ -65,3 +65,5 @@ https://bluecat123.com/2024/08/17/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/2024-03-3
 https://github.com/cyalias/mytvs-github
 
 個是資源文件： https://mpimg.cn/
+
+飯太硬 全能接口解密：https://www.xn--sss604efuw.com/jm/
