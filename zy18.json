@@ -3,6 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      // https://gayziyuan.com/
       "key": "gayZY",
       "name": "GAY資源",
       "type": 1,
@@ -14,6 +15,7 @@
       "changeable": 1
     },
     {
+      // https://didizy.com/
       "key": " didiZY",
       "name": "滴滴資源",
       "type": 1,
@@ -25,6 +27,7 @@
       "changeable": 1
     },
     {
+      // https://avre.club/
       "key": " avreZY",
       "name": "黃瓜資源",
       "type": 1,
@@ -36,6 +39,7 @@
       "changeable": 1
     },
     {
+      // https://thzy8.me/
       "key": "thZY",
       "name": "桃花資源",
       "type": 1,
@@ -47,15 +51,16 @@
       "changeable": 1
     },
     {
-      "key": "yyZY",
-      "name": "優優資源",
+      // https://hsckzy.com/
+      "key": "hsckzy",
+      "name": "黃色倉庫",
       "type": 1,
-      "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json/",
-      "playUrl": "https://jx.yycmszywjx.cc/?url=",
+      "api": "https://hsckzy.vip/api.php/provide/vod/at/json/",
+      "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  "changeable": 1
+      "changeable": 1
     },
     {
       "key": "siwaZY",
