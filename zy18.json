@@ -63,6 +63,7 @@
       "changeable": 1
     },
     {
+      // https://siwazyw.com/
       "key": "siwaZY",
       "name": "絲襪資源",
       "type": 1,
@@ -74,28 +75,31 @@
       "changeable": 1
     },
     {
-      "key": " bbckZY",
-      "name": "阿里BB倉庫資源",
+      // https://xiaojizy.live/
+      "key": "xiaojizy",
+      "name": "小雞資源",
       "type": 1,
-      "api": "https://bbckzy8.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://alplayer.bbckzy.com/?url=",
+      "api": "https://api.xiaojizy.live/provide/vod?ac=list",
+      "playUrl": "https://updata.xiaojizy.live/aplayer/player.html?autoplay=1&movurl=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  "changeable": 1
+      "changeable": 1
     },
     {
+      // https://www.xxibaozyw.com/
       "key": " sesehuZY",
-      "name": "色色虎資源",
+      "name": "X細胞資源網",
       "type": 1,
-      "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.jxsesehuzy.com/?url=",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://www.xxibaozyw.com/player.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  "changeable": 1
+      "changeable": 1
     },
     {
+      // https://aosikazy.com/ (1-10)
       "key": "aosikaZY",
       "name": "奧斯卡資源",
       "type": 1,
@@ -107,19 +111,21 @@
       "changeable": 1
     },
     {
-      "key": " gqZY",
-      "name": "搞起資源",
+      // https://dadizy.com/
+      "key": "dadizy",
+      "name": "大地資源",
       "type": 1,
-      "api": "https://caiji.gqjiexi.com/api.php/provide/vod/at/json/",
-      "playUrl": "https://jiexi.gqjiexi.com/?url=",
+      "api": "https://dadiapi.com/feifei/",
+      "playUrl": "https://ddddjx.com/watch?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
     },
     {
+      // https://jingpinx.com/
       "key": "jingpinxZY",
-      "name": "精品資源",
+      "name": "精品X資源",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
       //"playUrl": "https://vip.zykbf.com/?url=",
@@ -129,6 +135,7 @@
       "changeable": 1
     },
     {
+      // https://shayuzy.com/
       "key": "shayuZY",
       "name": "鯊魚資源",
       "type": 1,
@@ -140,7 +147,8 @@
       "changeable": 1
     },
     {
-      "key": "ljZY",
+      // http://lajiaozy.com/
+      "key": "lajiaozy",
       "name": "辣椒資源",
       "type": 1,
       "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
@@ -151,6 +159,7 @@
       "changeable": 1
     },
     {
+      // https://senlinzy.com/
       "key": "senlinZY",
       "name": "森林資源",
       "type": 1,
@@ -162,6 +171,7 @@
       "changeable": 1
     },
     {
+      // https://caoliuzyw.com/
       "key": "caoliuZY",
       "name": "草榴資源",
       "type": 1,
@@ -173,6 +183,7 @@
       "changeable": 1
     },
     {
+      // https://semaozy3.com/
       "key": "semaoZY",
       "name": "色貓資源",
       "type": 1,
@@ -184,17 +195,19 @@
       "changeable": 1
     },
     {
-      "key": "kkZY",
-      "name": "KK資源",
+      // https://bwzy.tv/
+      "key": "bwzy",
+      "name": "百萬資源",
       "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/?ac=list",
-      //"playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
+      "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/json/",
+      "playUrl": "https://bo.baiwanapi.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
     },
     {
+      // http://lebozy.com/
       "key": "lbZY",
       "name": "樂播資源",
       "type": 1,
