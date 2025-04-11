@@ -324,6 +324,18 @@
         "年代穿越", "女频恋爱", "现代都市", "影视解说", "邵氏电影", "篮球", "足球", "合集短剧"]
     },
     {
+      // https://mzzy.me/
+      "key": "MZZY",
+      "name": "魔爪資源",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://mzm3u8jx.com/aliplayer.html?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
 	"key": "实验直播3",
 	"name": "实验直播3",
 	"type": 4,
