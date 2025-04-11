@@ -284,6 +284,18 @@
         "年代穿越", "女频恋爱", "现代都市", "邵氏电影", "合集短剧"]
     },
     {
+      // https://niuniuzy.cc/
+      "key": "niuniuzy",
+      "name": "牛牛資源",
+      "type": 1,
+      "api": "https://api2.niuniuzy.me/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jiexi.niuniuzy.org/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
 	"key": "实验直播3",
 	"name": "实验直播3",
 	"type": 4,
