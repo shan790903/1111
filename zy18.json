@@ -38,7 +38,7 @@
       "filterable": 0,
       "changeable": 1
     },
-    {
+    /*{
       // https://dadizy.com/
       "key": "dadizy",
       "name": "大地資源",
@@ -49,7 +49,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
-    },
+    },*/
     {
       // https://bwzy.tv/
       "key": "bwzy",
@@ -86,7 +86,7 @@
       "filterable": 0,
       "changeable": 1
     },
-    {
+    /*{
       // https://siwazyw.com/
       "key": "siwazyw",
       "name": "絲襪資源網",
@@ -97,7 +97,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
-    },    
+    },
     {
       // https://aosikazy.com/ (1-10)
       "key": "aosikazy",
@@ -109,7 +109,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
-    },
+    },*/
     {
       // https://didizy.com/
       "key": " didizy",
@@ -122,7 +122,7 @@
       "filterable": 0,
       "changeable": 1
     },
-    {
+    /*{
       // https://avre.club/
       "key": " avreZY",
       "name": "黃瓜資源",
@@ -133,7 +133,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
-    },
+    },*/
     {
       // https://jingpinx.com/
       "key": "jingpinx",
@@ -194,7 +194,7 @@
       "filterable": 0,
       "changeable": 1
     },
-    {
+    /*{
       // https://caoliuzyw.com/
       "key": "caoliuzyw",
       "name": "草榴資源",
@@ -205,7 +205,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
-    },
+    },*/
     {
       // https://semaozy3.com/
       "key": "semaozy",
