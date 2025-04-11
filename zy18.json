@@ -4,7 +4,7 @@
   "sites": [
     {
       // https://gayziyuan.com/
-      "key": "gayZY",
+      "key": "gayziyuan",
       "name": "GAY資源",
       "type": 1,
       "api": "https://gayapi.com/api.php/provide/vod/at/json",
@@ -16,7 +16,7 @@
     },
     {
       // https://didizy.com/
-      "key": " didiZY",
+      "key": " didizy",
       "name": "滴滴資源",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
@@ -40,7 +40,7 @@
     },
     {
       // https://thzy8.me/
-      "key": "thZY",
+      "key": "thzy",
       "name": "桃花資源",
       "type": 1,
       "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
@@ -64,8 +64,8 @@
     },
     {
       // https://siwazyw.com/
-      "key": "siwaZY",
-      "name": "絲襪資源",
+      "key": "siwazyw",
+      "name": "絲襪資源網",
       "type": 1,
       "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json/",
       "playUrl": "https://help.siwam3u8.com:5278/m3u8.php?url=",
@@ -88,7 +88,7 @@
     },
     {
       // https://www.xxibaozyw.com/
-      "key": " sesehuZY",
+      "key": " xxibaozyw",
       "name": "X細胞資源網",
       "type": 1,
       "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
@@ -100,7 +100,7 @@
     },
     {
       // https://aosikazy.com/ (1-10)
-      "key": "aosikaZY",
+      "key": "aosikazy",
       "name": "奧斯卡資源",
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
@@ -124,7 +124,7 @@
     },
     {
       // https://jingpinx.com/
-      "key": "jingpinxZY",
+      "key": "jingpinx",
       "name": "精品X資源",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
@@ -136,7 +136,7 @@
     },
     {
       // https://shayuzy.com/
-      "key": "shayuZY",
+      "key": "shayuzy",
       "name": "鯊魚資源",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=list",
@@ -160,7 +160,7 @@
     },
     {
       // https://senlinzy.com/
-      "key": "senlinZY",
+      "key": "senlinzy",
       "name": "森林資源",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
@@ -172,7 +172,7 @@
     },
     {
       // https://caoliuzyw.com/
-      "key": "caoliuZY",
+      "key": "caoliuzyw",
       "name": "草榴資源",
       "type": 1,
       "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/json/",
@@ -184,7 +184,7 @@
     },
     {
       // https://semaozy3.com/
-      "key": "semaoZY",
+      "key": "semaozy",
       "name": "色貓資源",
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
@@ -208,7 +208,7 @@
     },
     {
       // http://lebozy.com/
-      "key": "lbZY",
+      "key": "lebozy",
       "name": "樂播資源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
@@ -219,7 +219,8 @@
       "changeable": 1
     },
     {
-      "key": "yutuZY",
+      // https://yutuzy.com/
+      "key": "yutuzy",
       "name": "玉兔資源",
       "type": 1,
       "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
@@ -230,8 +231,9 @@
       "changeable": 1
     },
     {
-      "key": "lsbZY",
-      "name": "老色逼資源",
+      // https://laosebizy.com/
+      "key": "laosebizy",
+      "name": "老色P資源",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://playlaosebi.com/?url=",
@@ -241,7 +243,8 @@
       "changeable": 1
     },
     {
-      "key": "fhZY",
+      // http://fhzy10.com/
+      "key": "fhzy",
       "name": "番號資源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list",
@@ -252,11 +255,24 @@
       "changeable": 1
     },
     {
-      "key": "naixxZY",
+      // http://155zy.com/
+      "key": "155zy",
+      "name": "115資源",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://www.155jx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      // https://naixxzy.com/
+      "key": "naixxzy",
       "name": "奶香香資源",
       "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://nxxzynxp.com/?url=",
+      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://nxbfvod.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
