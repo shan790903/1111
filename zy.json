@@ -354,8 +354,32 @@
 	"ext": "1,2,3"
     }*/
   ],
-  //"lives": [
-
-  //],
+	
+  "lives": [
+	{
+		"name":"Gather",
+		"type":0,
+		"url":"https://tv.iill.top/m3u/Gather",
+		"ua":"okhttp/3.8.1",
+		"timeout":20,
+		"playerType":1
+	},
+	{
+		"name":"Live",
+		"type":0,
+		"url":"https://tv.iill.top/m3u/Live",
+		"ua":"okhttp/3.8.1",
+		"timeout":20,
+		"playerType":1
+	},
+	{
+		"name":"MyTV",
+		"type":0,
+		"url":"https://tv.iill.top/m3u/MyTV",
+		"ua":"okhttp/3.8.1",
+		"timeout":20,
+		"playerType":1
+	}
+  ],
   "notice": "歡迎使用SHAN多資源接口"
 }
