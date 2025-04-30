@@ -355,7 +355,7 @@
     }*/
   ],
 	
-  "lives": [
+  /*"lives": [
 	{
 		"name":"Gather",
 		"type":0,
@@ -388,6 +388,6 @@
 		"timeout":20,
 		"playerType":1
 	}
-  ],
+  ],*/
   "notice": "歡迎使用SHAN多資源接口"
 }
