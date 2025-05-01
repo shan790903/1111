@@ -364,14 +364,14 @@
 		"timeout":10,
 		"playerType":1
 	},	
-{
+/*{
 		"name":"📺123Live📺",
 		"type":0,
 		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/123.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
-	},	
+	},*/	
 	{
 		"name":"Gather",
 		"type":0,
