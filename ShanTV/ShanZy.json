@@ -373,6 +373,14 @@
 		"playerType":1
 	},	
 	{
+		"name":"📺Smart 訂閱（美國節點）📺",
+		"type":0,
+		"url":"https://smart.pendy.dpdns.org/m3u/Smart.m3u",
+		"ua":"okhttp/3.8.1",
+		"timeout":10,
+		"playerType":1
+	},	
+	{
 		"name":"Gather",
 		"type":0,
 		"url":"https://tv.iill.top/m3u/Gather",
