@@ -107,6 +107,8 @@ EYE-戲劇smart高清,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 MTv高清smart高清,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
 Discoversmart高清,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 
+臺灣頻道(SHAN TEST),#genre#
+三立臺灣台,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 臺灣（群友334597477分享）頻道,#genre#
 中視,http://61.163.58.168:2005/play/forward/5?tvid=ctvtwhd&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
