@@ -20,6 +20,10 @@ https://github.com/bobyang3/TVRelated/tree/master/TVBoxOSC
 
 https://github.com/bobyang3/tvbox
 
+https://www.livednow.dpdns.org/
+
+https://smart.pendy.dpdns.org/
+
 推薦:
 
 https://github.com/gaotianliuyun/gao
