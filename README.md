@@ -24,6 +24,8 @@ https://www.livednow.dpdns.org/
 
 https://smart.pendy.dpdns.org/
 
+https://php.jdshipin.com/
+
 推薦:
 
 https://github.com/gaotianliuyun/gao
