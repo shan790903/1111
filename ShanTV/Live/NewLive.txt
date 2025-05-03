@@ -8,7 +8,6 @@
 三立戲劇台,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 三立戲劇台,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立新聞,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
-三立新聞,http://api.m3use.projectmoose.xyz/m3u/shan790903/LIVE/6809cd9ce1f522d01a8a84a0.m3u8
 國會頻道1,http://docker.livednow.dpdns.org/4gtv-4gtv084/index.m3u8
 國會頻道1,http://docker.livednow.dpdns.org/li-4gtv-4gtv084/index.m3u8
 國會頻道1,http://docker.livednow.dpdns.org/of-4gtv-4gtv084/index.m3u8
@@ -58,7 +57,6 @@
 華視,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 華視,http://docker.livednow.dpdns.org/of-4gtv-4gtv041/index.m3u8
 華視,http://docker.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
-華視新聞,http://api.m3use.projectmoose.xyz/m3u/shan790903/LIVE/6815ccfcfd6ad5aac2cdf44e.m3u8
 公視,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 公視,http://198.16.100.186:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公視,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
@@ -92,9 +90,7 @@
 鏡新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
 鏡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
 鏡新聞,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
-鏡新聞,http://api.m3use.projectmoose.xyz/m3u/shan790903/LIVE/680bb5415bda46552a55a1bd.m3u8
 TVBS新聞台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-TVBS NEWS,http://api.m3use.projectmoose.xyz/m3u/shan790903/LIVE/67fe7c20119ff75ea5075370.m3u8
 TVBS精采台,http://docker.livednow.dpdns.org/li-4gtv-4gtv067/index.m3u8
 TVBS精采台,http://docker.livednow.dpdns.org/4gtv-4gtv067/index.m3u8
 TVBS歡樂台,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
@@ -106,7 +102,6 @@ TVBS HD,http://docker.livednow.dpdns.org/4gtv-4gtv073/index.m3u8
 東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 東森新聞,http://docker.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
 東森新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
-東森新聞,http://api.m3use.projectmoose.xyz/m3u/shan790903/LIVE/67fe81137bf548390e19c9fe.m3u8
 東森財經,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
 東森財經,http://docker.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
 東森財經,http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
