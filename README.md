@@ -26,6 +26,8 @@ https://smart.pendy.dpdns.org/
 
 https://php.jdshipin.com/
 
+https://github.com/wcb1969/iptv/blob/main/TV2025
+
 推薦:
 
 https://github.com/gaotianliuyun/gao
