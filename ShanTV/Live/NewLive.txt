@@ -272,3 +272,6 @@ MOMO親子台,http://docker.livednow.dpdns.org/4gtv-live107/index.m3u8
 MOMO親子台,http://docker.livednow.dpdns.org/4gtv-live107/index.m3u8
 經典卡通台,http://docker.livednow.dpdns.org/4gtv-live022/index.m3u8
 精選動漫台,http://docker.livednow.dpdns.org/4gtv-live024/index.m3u8
+CN卡通頻道,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
+CN卡通頻道,http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1bcf38de8605c061c98d5e5c55163725
+CN卡通頻道,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
