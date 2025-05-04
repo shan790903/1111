@@ -365,12 +365,12 @@
 		"playerType":1
 	},
 	{
-		"name":"📺ShanLive tvbus📺",
+		"name":"📺ShanYoutubeLive📺",
 		"type":0,
-		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/tvbus.txt",
+		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/YoutubeLive.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
-		"playerType":1
+		"playerType":2
 	},
 	/*{
 		"name":"📺JUDY-4GTV📺",
