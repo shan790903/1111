@@ -1,0 +1,18 @@
+Youtube,#genre#
+中視新聞台,https://www.youtube.com/watch?v=AGdxQWYSrI8
+台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
+華視新聞台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+民視新聞台,https://www.youtube.com/watch?v=ylYJSBUgaMA
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+東森新聞台,https://www.youtube.com/watch?v=V1p33hqPrUk
+中天新聞台,https://www.youtube.com/watch?v=vr3XyVCR4T0
+三立新聞台,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
+公視新聞台,https://www.youtube.com/watch?v=quwqlazU-c8
+公共電視台,https://www.youtube.com/watch?v=C6gYqSHLRw4
+公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+EBC 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+寰宇新聞財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
