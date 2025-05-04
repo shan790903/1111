@@ -364,15 +364,15 @@
 		"timeout":10,
 		"playerType":1
 	},
-	/*{
-		"name":"📺ShanLive20250502📺",
+	{
+		"name":"📺ShanLive tvbus📺",
 		"type":0,
-		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/ShanLive20250502.txt",
+		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/tvbus.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
-		"playerType":2
+		"playerType":1
 	},
-	{
+	/*{
 		"name":"📺JUDY-4GTV📺",
 		"type":0,
 		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/JUDY-4GTV.txt",
