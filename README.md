@@ -30,6 +30,8 @@ https://github.com/wcb1969/iptv/blob/main/TV2025
 
 https://www.wangdu.site/software/av-read/339.html
 
+https://github.com/sqspot/tac/tree/main/tvbus
+
 推薦:
 
 https://github.com/gaotianliuyun/gao
