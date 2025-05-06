@@ -27,6 +27,7 @@
 大愛2台,https://smart.pendy.dpdns.org/youtube.php?id=DTNkEm6jaqQ
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人間衛視,https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
+生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 中視,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 中視,http://live4play.uk/livehttpplay?channel_id=20088
 中視,http://108.181.20.197/livehttpplay?channel_id=20088
