@@ -1,6 +1,7 @@
 台灣頻道,#genre#
 三立臺灣台,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 三立臺灣台,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立臺灣台,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立都會台,http://live4play.uk/livehttpplay?channel_id=20100
 三立都會台,http://108.181.20.197/livehttpplay?channel_id=20100
 三立綜合台,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
