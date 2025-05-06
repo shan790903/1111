@@ -381,6 +381,14 @@
 		"playerType":1
 	},
 	{
+		"name":"📺lalifeier LIVE📺",
+		"type":0,
+		"url":"https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u",
+		"ua":"okhttp/3.8.1",
+		"timeout":10,
+		"playerType":1
+	},
+	{
 		"name":"📺4GTV訂閱（台灣節點）📺",
 		"type":0,
 		"url":"http://docker.livednow.dpdns.org/?type=m3u",
