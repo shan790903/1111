@@ -1,0 +1,49 @@
+臺灣直播,#genre#
+CCTV4,http://tw.wsmywlkj.top/video?id=SdzewdkJa-o&resolution=1920x1080
+鳳凰衛視資訊,http://tw.wsmywlkj.top/video?id=HFib76ySpbU&resolution=1920x1080
+中天新聞,http://tw.wsmywlkj.top/video?id=vr3XyVCR4T0&resolution=1920x1080
+公視新聞,http://tw.wsmywlkj.top/video?id=quwqlazU-c8&resolution=1920x1080
+民視新聞,http://tw.wsmywlkj.top/video?id=ylYJSBUgaMA&resolution=1920x1080
+台視新聞,http://tw.wsmywlkj.top/video?id=xL0ch83RAK8&resolution=1920x1080
+中視新聞,http://tw.wsmywlkj.top/video?id=TCnaIE_SAtM&resolution=1920x1080
+華視新聞,http://tw.wsmywlkj.top/video?id=wM0g8EoUZ_E&resolution=1920x1080
+TVBSNEWS,http://tw.wsmywlkj.top/video?id=m_dhMSvUCIc&resolution=1920x1080
+TVBS選新聞,http://tw.wsmywlkj.top/video?id=d1jUeoc3pio&resolution=1920x1080
+三立新聞,http://tw.wsmywlkj.top/video?id=MV9mI0GChwo&resolution=1920x1080
+三立iNEWS,http://tw.wsmywlkj.top/video?id=BlKaF8og0jo&resolution=1920x1080
+東森新聞,http://tw.wsmywlkj.top/video?id=E0zhe2gkXBs&resolution=1920x1080
+東森財經新聞,http://tw.wsmywlkj.top/video?id=1I2iq41Akmo&resolution=1920x1080
+寰宇新聞,http://tw.wsmywlkj.top/video?id=6IquAgfvYmc&resolution=1920x1080
+寰宇財經新聞,http://tw.wsmywlkj.top/video?id=WTRQiVWK1jY&resolution=1920x1080
+鏡新聞,http://tw.wsmywlkj.top/video?id=5n0y6b0Q25o&resolution=1920x1080
+FRANCE 24,http://tw.wsmywlkj.top/video?id=l8PMl7tUDIE&resolution=1920x1080
+ANN NEWS,http://tw.wsmywlkj.top/video?id=coYw-eVU0Ks&resolution=1920x1080
+NHK WORLD,http://tw.wsmywlkj.top/video?id=f0lYkdA-Gtw&resolution=1920x1080
+TBS NEWS,http://tw.wsmywlkj.top/video?id=ohI356mwBp8&resolution=1920x1080
+大愛一台,http://tw.wsmywlkj.top/video?id=MIqUplvSRWA&resolution=1920x1080
+大愛一台,http://tw.wsmywlkj.top/video?id=DTNkEm6jaqQ&resolution=1920x1080
+中視經典綜藝,http://tw.wsmywlkj.top/video?id=ADDSmXoPDY8&resolution=1920x1080
+
+
+影視劇直播,#genre#
+憨豆先生,http://tw.wsmywlkj.top/video?id=NOCisq9ASyM&resolution=1920x1080
+哈利波特,http://tw.wsmywlkj.top/video?id=mQlUejpK6eE&resolution=1920x1080
+
+風景直播,#genre#
+自然風景,http://tw.wsmywlkj.top/video?id=Tq117lqpr-A&resolution=1920x1080
+自然風景2,http://tw.wsmywlkj.top/video?id=NzW0pxiHPmQ&resolution=1920x1080
+城市風景,http://tw.wsmywlkj.top/video?id=TZikBxNaaQk&resolution=1920x1080
+
+白噪音直播,#genre#
+聖誕氛圍,http://tw.wsmywlkj.top/video?id=Lo1sqgwJhfs&resolution=1920x1080
+聖誕氛圍2,http://tw.wsmywlkj.top/video?id=CISaL8WJLjM&resolution=1920x1080
+小屋外湖氛圍,http://tw.wsmywlkj.top/video?id=0SDeg34pu-s&resolution=1920x1080
+治癒音樂,http://tw.wsmywlkj.top/video?id=hYz1oOcAuk8&resolution=1920x1080
+鄉村音樂,http://tw.wsmywlkj.top/video?id=pYn0OPouYiI&resolution=1920x1080
+冬季氛圍,http://tw.wsmywlkj.top/video?id=ymCQvxvkdoE&resolution=1920x1080
+
+音樂直播,#genre#
+鄉村音樂,http://tw.wsmywlkj.top/video?id=pYn0OPouYiI&resolution=1920x1080
+鬼畜音樂,http://tw.wsmywlkj.top/video?id=pAM7Cvlxp_8&resolution=1920x1080
+舒緩音樂,http://tw.wsmywlkj.top/video?id=D0KcwUMCPDg&resolution=1920x1080
+
