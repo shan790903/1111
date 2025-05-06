@@ -16,6 +16,8 @@ https://github.com/kan31467/1/tree/main/json
 
 live:
 
+免費電視節目表  https://epg.pw/test_channel_page.html?lang=zh-hans
+
 https://github.com/bobyang3/TVRelated/tree/master/TVBoxOSC
 
 https://github.com/bobyang3/tvbox
