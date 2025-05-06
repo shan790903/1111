@@ -373,14 +373,6 @@
 		"playerType":2
 	},
 	{
-		"name":"📺YoutubeLive📺",
-		"type":0,
-		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/YTLIVE.txt",
-		"ua":"okhttp/3.8.1",
-		"timeout":10,
-		"playerType":1
-	},
-	{
 		"name":"📺AUTO LIVE📺",
 		"type":0,
 		"url":"https://raw.githubusercontent.com/shan790903/collect-tv-txt/refs/heads/main/live.m3u",
