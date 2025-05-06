@@ -1,5 +1,6 @@
 台灣頻道,#genre#
 三立臺灣台,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
+三立臺灣台,http://125.227.210.55:8160/VideoInput/play.ts
 三立臺灣台,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立臺灣台,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立都會台,http://live4play.uk/livehttpplay?channel_id=20100
@@ -15,6 +16,7 @@
 三立戲劇台,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立新聞台,http://live4play.uk/livehttpplay?channel_id=10126
 三立新聞台,http://108.181.20.197/livehttpplay?channel_id=10126
+三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
 三立LIVE,https://smart.pendy.dpdns.org/youtube.php?id=MV9mI0GChwo
 國會頻道1,http://docker.livednow.dpdns.org/4gtv-4gtv084/index.m3u8
 國會頻道1,http://docker.livednow.dpdns.org/li-4gtv-4gtv084/index.m3u8
@@ -133,6 +135,7 @@
 鏡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
 鏡新聞,https://smart.pendy.dpdns.org/youtube.php?id=5n0y6b0Q25o
 TVBS新聞台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS精采台,http://docker.livednow.dpdns.org/li-4gtv-4gtv067/index.m3u8
 TVBS精采台,http://docker.livednow.dpdns.org/4gtv-4gtv067/index.m3u8
 TVBS精采台,http://live4play.uk/livehttpplay?channel_id=20136
@@ -141,6 +144,7 @@ TVBS歡樂台,http://docker.livednow.dpdns.org/4gtv-4gtv068/index.m3u8
 TVBS歡樂台,http://docker.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
 TVBS歡樂台,http://live4play.uk/livehttpplay?channel_id=20105
 TVBS歡樂台,http://108.181.20.197/livehttpplay?channel_id=20105
+TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 TVBS HD,http://docker.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
 TVBS HD,http://docker.livednow.dpdns.org/4gtv-4gtv073/index.m3u8
@@ -394,6 +398,7 @@ MOMO親子台,http://docker.livednow.dpdns.org/4gtv-live107/index.m3u8
 MOMO親子台,http://docker.livednow.dpdns.org/4gtv-live107/index.m3u8
 經典卡通台,http://docker.livednow.dpdns.org/4gtv-live022/index.m3u8
 精選動漫台,http://docker.livednow.dpdns.org/4gtv-live024/index.m3u8
+CN卡通頻道,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通頻道,https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
 CN卡通頻道,http://live4play.uk/livehttpplay?channel_id=20048
 CN卡通頻道,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
