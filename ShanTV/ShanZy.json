@@ -362,6 +362,7 @@
 		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/NewLive.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
+		"boot":true,
 		"playerType":1
 	},
 	{
