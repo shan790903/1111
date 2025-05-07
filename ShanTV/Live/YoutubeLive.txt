@@ -19,7 +19,7 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 大愛一台,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛二台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
-
+,
 娛樂-連播,#genre#
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 蠟筆小新TV版,https://www.youtube.com/watch?v=T0J79UaCTAs
@@ -37,3 +37,16 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
 新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=qJMFuMRLee4
 豆豆先生,https://www.youtube.com/watch?v=NOCisq9ASyM
+,
+國會頻道,#genre#
+國會頻道1,https://www.youtube.com/watch?v=4HysYHJ6GkY
+國會頻道2,https://www.youtube.com/watch?v=Lj8OWF6nzcg
+立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
+內政委員會,https://www.youtube.com/watch?v=vGX0bMBVa4k
+外交及國防委員會,https://www.youtube.com/watch?v=Af0TFVbxvAQ
+經濟委員會,https://www.youtube.com/watch?v=xfikIGtkQeA
+財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
+教育及文化委員會,https://www.youtube.com/watch?v=Qo9QwuCpV3s
+交通委員會,https://www.youtube.com/watch?v=teud7KwyEPw
+司法及法制委員會,https://www.youtube.com/watch?v=KUhidt89DVo
+社會福利及衛生環境委員會,https://www.youtube.com/watch?v=DdUWlWZVOi8
