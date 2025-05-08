@@ -388,6 +388,14 @@
 		"timeout":10,
 		"playerType":1
 	},
+{
+		"name":"📺21652165LIVE📺",
+		"type":0,
+		"url":"http://l.gmbbk.com/upload/21652165.txt",
+		"ua":"okhttp/3.8.1",
+		"timeout":10,
+		"playerType":1
+	},
 	{
 		"name":"📺4GTV訂閱（台灣節點）📺",
 		"type":0,
