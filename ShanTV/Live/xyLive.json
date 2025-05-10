@@ -359,7 +359,7 @@
 	{
 		"name":"📺ShanLive📺",
 		"type":0,
-		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/NewLive.txt",
+		"url":"https://raw.githubusercontent.com/shan790903/1111/refs/heads/main/ShanTV/Live/NewLive.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
@@ -367,7 +367,7 @@
 	{
 		"name":"📺ShanYoutubeLive📺",
 		"type":0,
-		"url":"https://github.moeyy.xyz/https://github.com/shan790903/1111/blob/main/ShanTV/Live/YoutubeLive.txt",
+		"url":"https://raw.githubusercontent.com/shan790903/1111/refs/heads/main/ShanTV/Live/YoutubeLive.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":2
