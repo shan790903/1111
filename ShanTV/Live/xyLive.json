@@ -1,4 +1,4 @@
-{"logo":"https://tang.hz.cz/api/shad.gif",
+{"logo":"https://pgl823.com/img/img.png",
 "spider":"https://tang.hz.cz/api/custom_spider.jar;md5;30c650f153f10097baa51cdd09c6cce3",
 
 "sites": [
@@ -366,5 +366,5 @@
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
 ],
 "hosts":["cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.FifastbLive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"],
-"notice":"歡迎使用小雲LIVE"
+"notice":"歡迎使用SHAN點直播源接口"
 }
