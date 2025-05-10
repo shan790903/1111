@@ -376,7 +376,7 @@
 		"name":"☁️小雲 LIVE☁️",
 		"url":"https://tang.hz.cz/so/xiaoyun.m3u",
 		//"ua":"okhttp/3.8.1",
-		"timeout": 5,
+		//"timeout": 5,
 		"core":
 		{
 			"auth":"local://tvbus",
