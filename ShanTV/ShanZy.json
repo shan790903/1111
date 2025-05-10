@@ -1,7 +1,8 @@
 {
+  "spider":"https://tang.hz.cz/api/custom_spider.jar;md5;30c650f153f10097baa51cdd09c6cce3",
   "logo": "https://pgl823.com/img/img.png",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "spider":"https://github.com/wzxxcz/xcz/raw/refs/heads/master/wzx.jar",
+  
   "sites": [
     {
       // https://heimuer.tv/
