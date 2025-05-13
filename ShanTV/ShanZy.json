@@ -389,14 +389,6 @@
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
-	},
-	{
-		"name":"📺cccccccoccccccc LIVE📺",
-		"type":0,
-		"url":"https://cccccccoccccccc.ccccocccc.cc/uploads/TW.txt",
-		"ua":"okhttp/3.8.1",
-		"timeout":10,
-		"playerType":1
 	}
 ],
 "doh":[
