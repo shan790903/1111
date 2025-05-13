@@ -358,7 +358,7 @@
   
 "lives":[
 	{
-		"name":"📺ShanLive📺",
+		"name":"📺Shan Live📺",
 		"type":0,
 		"url":"https://url.pgl.dpdns.org/v1rZ7vbZ",
 		"ua":"okhttp/3.8.1",
@@ -366,7 +366,7 @@
 		"playerType":1
 	},
 	{
-		"name":"📺ShanYoutubeLive📺",
+		"name":"📺Shan Youtube Live📺",
 		"type":0,
 		"url":"https://url.pgl.dpdns.org/8fc3wQ3V",
 		"ua":"okhttp/3.8.1",
