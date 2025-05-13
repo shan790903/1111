@@ -360,7 +360,7 @@
 	{
 		"name":"📺Shan Live📺",
 		"type":0,
-		"url":"https://url.pgl.dpdns.org/v1rZ7vbZ",
+		"url":"./Live/NewLive.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
@@ -368,7 +368,7 @@
 	{
 		"name":"📺Shan Youtube Live📺",
 		"type":0,
-		"url":"https://url.pgl.dpdns.org/8fc3wQ3V",
+		"url":"./Live/YoutubeLive.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":2
@@ -377,7 +377,7 @@
 	{
 		"name":"📺collect AUTO LIVE📺",
 		"type":0,
-		"url":"https://url.pgl.dpdns.org/N5mZwdyk",
+		"url":"https://cdn.pgl.dpdns.org/s/CE3RN35w",	// collect-tv-txt/blob/main/live.m3u
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
@@ -385,7 +385,7 @@
 	{
 		"name":"📺lalifeier AUTO LIVE📺",
 		"type":0,
-		"url":"https://url.pgl.dpdns.org/HH59jcCy",
+		"url":"https://cdn.pgl.dpdns.org/s/32RkqaMJ",	// IPTV/blob/main/m3u/IPTV.m3u
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
