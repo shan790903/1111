@@ -4,6 +4,37 @@
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "sites": [
     {
+	"key":"py_jieyingshi",
+	"name": "界影視(T3)",
+	"type": 3,
+	//"api": "https://json.doube.eu.org/python/py_jieyingshi.py",
+	"api": "./py/py_jieyingshi.py",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"changeable": 1  
+    },
+    {
+      "key": "py_OleVod",
+      "name": "歐樂影院(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=OleVod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "py_Dm84",
+      "name": "動漫巴士(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=Dm84",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    }
+    {
       // https://heimuer.tv/
       "key": "heimuer",
       "name": "黑木耳",
@@ -344,37 +375,6 @@
         "日韩动漫", "欧美动漫", "短剧",//"港台动漫", "韩国动漫", "其它动漫", 
         "爽文短剧", "现代都市", "年代穿越", "古装仙侠", "女频恋爱", "成长逆袭", "重生短剧", "复仇短剧",
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
-    },
-    {
-	"key":"py_jieyingshi",
-	"name": "界影視(T3)",
-	"type": 3,
-	//"api": "https://json.doube.eu.org/python/py_jieyingshi.py",
-	"api": "./py/py_jieyingshi.py",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"changeable": 1  
-    },
-    {
-      "key": "py_OleVod",
-      "name": "歐樂影院(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=OleVod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "py_Dm84",
-      "name": "動漫巴士(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=Dm84",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
     }
   ],
   
