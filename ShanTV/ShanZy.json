@@ -345,59 +345,7 @@
         "爽文短剧", "现代都市", "年代穿越", "古装仙侠", "女频恋爱", "成长逆袭", "重生短剧", "复仇短剧",
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
-      {
-        "key": "苹果",
-        "name": "优质｜苹果(饭)",
-        "type": 3,
-        "api": "csp_LiteApple",
-        "spider": "./jar/fan.txt;md5;8851819289f80deae32319080028db3b",
-        "jar": "./jar/fan.txt;md5;8851819289f80deae32319080028db3b",
-        "playerType": 2,
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "key": "苹果忐忑",
-        "name": "优质｜苹果(忐忑)",
-        "type": 3,
-        "api": "csp_LiteApple",
-        "jar": "./jar/fan.txt;md5;8851819289f80deae32319080028db3b",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-      },
-      {
-        "key": "hipy_js_小宝影院",
-        "name": "优质｜小宝｜HIPY",
-        "type": 3,
-        "api": "./drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "./drpy_js/小宝影院.js"
-      },
-     {
-        "key": "zj",
-        "name": "优质｜8K影院",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "ext": {
-          "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-          "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
-        }
-      },
-      {
-        "key": "墨白影视",
-        "name": "优质｜墨白",
-        "type": 1,
-        "api": "https://nm.xxxc137.top/api.php/provide/vod/",
-        "jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1
-      },
+   {"key": "dr_8K影视","name":"🗺┃8K影院┃JS","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/8K影视.js"},
     {
 	"key":"py_jieyingshi",
 	"name": "界影視(T3)",
