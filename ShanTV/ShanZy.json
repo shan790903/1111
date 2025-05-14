@@ -348,6 +348,7 @@
     {
         "key": "php_heimuer",
         "name": "黑木耳 | 無廣",
+	"jar":"https://yt.wya6.cn/tz/wyxs.php;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
         "type": 4,
         "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
         "searchable": 1,
