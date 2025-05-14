@@ -410,14 +410,6 @@
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
-	},
-	{
-		"name":"📺gggg LIVE📺",
-		"type":0,
-		"url":"http://rihou.cc:567/gggg.nzk",
-		"ua":"okhttp/3.8.1",
-		"timeout":10,
-		"playerType":2
 	}
 ],
 "doh":[
