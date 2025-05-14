@@ -345,16 +345,24 @@
         "爽文短剧", "现代都市", "年代穿越", "古装仙侠", "女频恋爱", "成长逆袭", "重生短剧", "复仇短剧",
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
     },
-    {
-      "key": "py_jieyingshi",
-      "name": "界影視(T3)",
-      "type": 3,
-      "api": "./py/py_jieyingshi.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
+      {
+        "key": "py_hitv.py",
+        "name": "🥇｜嗨影視(PY)｜",
+        "type": 3,
+        "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/py_hitv.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+      },
+      {
+        "key": "py_hitvAPP",
+        "name": "🥇｜嗨影視(APP)｜",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/hitvAPP.py",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0
+      },
     {
       "key": "py_OleVod",
       "name": "歐樂影院(T4)",
