@@ -357,16 +357,6 @@
         "changeable": 0
     },
     {
-        "key": "php_bttwoo",
-        "name": "TwoBT(T4)",
-        "type": 4,
-        "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
-        "searchable": 1,
-        "quickSearch": 0,
-        "filterable": 0,
-        "changeable": 0
-    },
-    {
         "key": "Auete",
         "name": "奧特 | 無廣",
         "type": 3,
