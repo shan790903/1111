@@ -344,16 +344,57 @@
         "日韩动漫", "欧美动漫", "短剧",//"港台动漫", "韩国动漫", "其它动漫", 
         "爽文短剧", "现代都市", "年代穿越", "古装仙侠", "女频恋爱", "成长逆袭", "重生短剧", "复仇短剧",
         "穿越短剧", "甜宠短剧", "强者短剧", "其它短剧", "合集短剧"]
+    },
+    {
+      "key": "py_jieyingshi",
+      "name": "界影视(T3)",
+      "type": 3,
+      "api": "./python/py_jieyingshi.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "py_UpFuHn",
+      "name": "Hi视频(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=UpFuHn",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "py_OleVod",
+      "name": "欧乐影院(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=OleVod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "py_Dm84",
+      "name": "动漫巴士(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=Dm84",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "py_BaHaoTV",
+      "name": "八号影院(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=BaHaoTV",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     }
-    /*{
-	"key": "实验直播3",
-	"name": "实验直播3",
-	"type": 4,
-	"api": "http://zhangqun1818.serv00.net/zh/2241.php",
-	"searchable": 0,
-	"changeable": 0,
-	"ext": "1,2,3"
-    }*/
   ],
   
 "lives":[
@@ -389,6 +430,14 @@
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
+	},
+	{
+		"name":"📺gggg LIVE📺",
+		"type":0,
+		"url":"http://rihou.cc:567/gggg.nzk",
+		"ua":"okhttp/3.8.1",
+		"timeout":10,
+		"playerType":2
 	}
 ],
 "doh":[
