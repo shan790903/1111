@@ -18,6 +18,8 @@ https://github.com/swhjb/BO
 
 https://github.com/alantang1977/pg
 
+雷蒙影视 https://github.com/n3rddd/N3RD/blob/master/JN/lem.json
+
 live:
 
 免費電視節目表  https://epg.pw/test_channel_page.html?lang=zh-hans
