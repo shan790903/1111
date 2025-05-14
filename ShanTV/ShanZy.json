@@ -347,7 +347,7 @@
     },
     {
         "key": "php_heimuer",
-        "name": "黑木耳|無廣",
+        "name": "黑木耳 | 無廣",
         "type": 4,
         "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
         "searchable": 1,
