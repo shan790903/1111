@@ -14,6 +14,8 @@ vod:
 
 https://github.com/kan31467/1/tree/main/json
 
+https://github.com/swhjb/BO
+
 live:
 
 免費電視節目表  https://epg.pw/test_channel_page.html?lang=zh-hans
