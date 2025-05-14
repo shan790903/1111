@@ -356,7 +356,7 @@
 	    "changeable": 0  
     },
 	{
-		"key": "py_jieyingshi",
+		"key": "py_jieyingshi1",
 		"name": "界影視(T3)",
 		"type": 3,
 		"api": "https://json.doube.eu.org/python/py_jieyingshi.py",
