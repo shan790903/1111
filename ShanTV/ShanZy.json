@@ -347,24 +347,14 @@
     },
     {
 	    "key":"py_jieyingshi",
-	    "name": "界影視",
+	    "name": "界影視(T3)",
 	    "type": 3,
 	    "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
 	    "searchable": 1,
-	    "quickSearch": 0,
-	    "filterable": 0,
-	    "changeable": 0  
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "changeable": 1  
     },
-	{
-		"key": "py_jieyingshi1",
-		"name": "界影視(T3)",
-		"type": 3,
-		"api": "https://json.doube.eu.org/python/py_jieyingshi.py",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"changeable": 1
-	},
     {
       "key": "py_OleVod",
       "name": "歐樂影院(T4)",
