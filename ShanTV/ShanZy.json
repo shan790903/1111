@@ -34,6 +34,14 @@
       "filterable": 0,
       "changeable": 0
     },
+{"key":"T4_CNTV","name":"雷蒙影视 |4️⃣CNTV(T4)","type":4,"api":"https://azure.leuse.top/vod/cntv","searchable":0,"filterable":0},
+{"key":"T4_黑木","name":"4️⃣黑木(T4)","type":4,"api":"https://spider.doube.eu.org/spider?site=HeiMuEr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_海外","name":"4️⃣海外(T4)","type":4,"api":"https://spider.doube.eu.org/spider?site=HuaWeiBa","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"T4_欧乐","name":"4️⃣欧乐(T4)","type":4,"api":"https://spider.doube.eu.org/spider?site=OleVod","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"T4_嗨视","name":"4️⃣嗨视(T4)","type":4,"api":"https://spider.doube.eu.org/spider?site=UpFuHn","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"T4_爱瓜","name":"4️⃣爱瓜(T4)","type":4,"api":"https://spider.doube.eu.org/spider?site=AiGuaTV","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"T4_皮虾","name":"4️⃣皮虾(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=PPXYs","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"T4_比特","name":"4️⃣比特(T4)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=bttwoo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
     {
       // https://heimuer.tv/
       "key": "heimuer",
