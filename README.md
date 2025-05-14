@@ -16,6 +16,8 @@ https://github.com/kan31467/1/tree/main/json
 
 https://github.com/swhjb/BO
 
+https://github.com/alantang1977/pg
+
 live:
 
 免費電視節目表  https://epg.pw/test_channel_page.html?lang=zh-hans
