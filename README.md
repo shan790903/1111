@@ -20,6 +20,8 @@ https://github.com/alantang1977/pg
 
 雷蒙影视 https://github.com/n3rddd/N3RD/blob/master/JN/lem.json
 
+https://github.com/lg-yyds/tt/blob/06ab473805f8a46b635ddc88d83d21027f7eb2c3/JN/tvy.json
+
 live:
 
 免費電視節目表  https://epg.pw/test_channel_page.html?lang=zh-hans
