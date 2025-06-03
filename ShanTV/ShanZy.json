@@ -382,7 +382,7 @@
 	{
 		"name":"📺Shan Live📺",
 		"type":0,
-		"url":"./Live/NewLive.txt",
+		"url":"https://2222.pgl.dpdns.org/new_live.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
@@ -390,7 +390,7 @@
 	{
 		"name":"📺Shan Youtube Live📺",
 		"type":0,
-		"url":"./Live/YoutubeLive.txt",
+		"url":"https://2222.pgl.dpdns.org/yt_live.txt",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":2
