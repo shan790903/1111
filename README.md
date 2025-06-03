@@ -44,6 +44,10 @@ https://github.com/sqspot/tac/tree/main/tvbus
 
 https://github.com/LinWei0718/iptvtw/blob/5b764ff78c40867b1aaa6473ddfc6d855fcbdcc7/10003.txt#L188
 
+https://github.com/jj00780078/jj00780078.github.io/tree/main
+
+https://github.com/doube-ba/Sub/tree/main
+
 推薦:
 
 https://github.com/gaotianliuyun/gao
