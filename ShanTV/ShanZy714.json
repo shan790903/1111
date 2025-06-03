@@ -382,7 +382,7 @@
 	{
 		"name":"📺Shan SMT TW Live📺",
 		"type":0,
-		"url":"https://2222.pgl.dpdns.org/smt_tw.txt",
+		"url":"https://pgl.dpdns.org/go?tv=smt_tw",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"boot":true,
@@ -391,7 +391,7 @@
 	{
 		"name":"📺Shan Smart TW Live📺",
 		"type":0,
-		"url":"https://2222.pgl.dpdns.org/smart_tw.txt",
+		"url":"https://pgl.dpdns.org/go?tv=smart_tw",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"boot":true,
@@ -400,7 +400,7 @@
 	{
 		"name":"📺Shan Live📺",
 		"type":0,
-		"url":"https://2222.pgl.dpdns.org/new_live.txt",
+		"url":"https://pgl.dpdns.org/go?tv=new_live",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":1
@@ -408,7 +408,7 @@
 	{
 		"name":"📺Shan Youtube Live📺",
 		"type":0,
-		"url":"https://2222.pgl.dpdns.org/yt_live.txt",
+		"url":"https://pgl.dpdns.org/go?tv=yt_live",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":2
@@ -444,7 +444,7 @@
 	{
 		"name":"📺Shan SMT Live📺",
 		"type":0,
-		"url":"https://2222.pgl.dpdns.org/smt_all.txt",
+		"url":"https://pgl.dpdns.org/go?tv=smt_all",
 		"ua":"okhttp/3.8.1",
 		"timeout":10,
 		"playerType":2
