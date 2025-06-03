@@ -419,25 +419,25 @@
   	{
 	"name": "LITV直播(py)",
 	"type": 3,
-	"api": "https://cdn.pgl.dpdns.org/s/KRvmuRcT",
+	"api": "https://cdn.pgl.dpdns.org/p/shan790903/Sub/main/live/live_litv.py",
 	"ext": {}
 	},
 	{
 	"name": "SMT直播(py-proxy)",
 	"type": 3,
-	"api": "https://cdn.pgl.dpdns.org/s/xm4zvJYP",
+	"api": "https://cdn.pgl.dpdns.org/p/shan790903/Sub/main/live/live_smt_proxy_001.py",
 	"ext": {}
 	},
 	{
 	"name": "SMT直播(py)",
 	"type": 3,
-	"api": "https://cdn.pgl.dpdns.org/s/7nfGe9pj",
+	"api": "https://cdn.pgl.dpdns.org/p/shan790903/Sub/main/live/live_smt.py",
 	"ext": {}
 	},
 	{
 	"name": "BeeSport直播(py)",
 	"type": 3,
-	"api": "https://cdn.pgl.dpdns.org/s/xXQ1QfV3",
+	"api": "https://cdn.pgl.dpdns.org/p/shan790903/Sub/main/live/live_beesport.py",
 	"ext": {},
 	"header": {
 		"Referer": "https://p.m82xg4z0cdbz7.com/"
