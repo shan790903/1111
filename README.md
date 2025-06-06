@@ -28,6 +28,8 @@ live:
 
 IPTV 神源收集站：https://github.com/kakaxi-1/IPTV/tree/main
 
+台標：https://assets.livednow.com/guide.html
+
 https://github.com/bobyang3/TVRelated/tree/master/TVBoxOSC
 
 https://github.com/bobyang3/tvbox
